@@ -1,5 +1,4 @@
 using System.Text;
-
 namespace Programming_Constructs;
 
 class Program
